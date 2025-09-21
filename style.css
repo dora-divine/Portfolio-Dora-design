@@ -166,7 +166,7 @@ transform: rotate(-12deg) scale(1.1); transition-delay:.1s;}
 .service-1{position:relative; display:flex; flex-direction:row-reverse; justify-content:space-around; top: ; margin-top:60px ; } 
 
 .service-1 .left_service-1{
-     border: solid 1px #ff7300;
+     
      padding:0; height: 50px;
 }
  
@@ -274,7 +274,7 @@ top:-300px;}
 .service-3{position:relative; display:flex;  justify-content:space-around; margin-top:100px ;} 
 
 .service-3 .left_service-1{
-     border: solid 1px #ff7300;
+     
      padding:0; height: 50px;
 }
  
