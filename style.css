@@ -329,13 +329,13 @@ input[type=radio]:checked{opacity:1;}
 #slider label{position:absolute;width:100%;
 height:100%; left:0; top:0; border-radius:5px; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:transform 400ms ease;}
 
-#slide1{background:url("img/web10.jpg");
+#slide1{background:url("img/Screenshot_20250921-185535.jpg");
 background-size:100%;}
-#slide2{background:url("img/web11.jpg");
+#slide2{background:url("img/Screenshot_20250921-193751.jpg");
 background-size:100%;}
-#slide3{background:url("img/web12.jpg");
+#slide3{background:url("img/Screenshot_20250921-192736.jpg");
 background-size:100%;}
-#slide4{background:url("img/web13.jpg");
+#slide4{background:url("img/Screenshot_20250921-192405.jpg");
 background-size:100%;}
 #slide5{background:url("img/web14.jpg");
 background-size:100%;}
